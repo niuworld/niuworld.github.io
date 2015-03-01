@@ -16,6 +16,6 @@ My full-time job is preserving my youth.
 
 ### Contact me
 
-[niuyenoah@qq.com](mailto:email@domain.com)
+[niuyenoah@qq.com](mailto:niuyenoah@qq.com)
 
-[niuyenoah@gmail.com](mailto:email@domain.com)
+[niuyenoah@gmail.com](mailto:niuyenoah@gmail.com)
