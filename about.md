@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a postgraduate student majoring in Electronic Engineering in Tianjin University, China. I am taking a exchange program in Chang Gung University, Taiwan.I have great interest in Computer Science. 
+
+I am a life-long learner. I just start to learn something about Computer Science half a year ago. But I am really addicted to it now.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a couchsurfer and world-travller. I have been to some countries in Southeastern Asia, like Vietname, Cambodia, Malaysia and Phillipines. I have also explored alone in Middle East, like Iran.
+
+My full-time job is preserving my youth.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[niuyenoah@qq.com](mailto:email@domain.com)
+
+[niuyenoah@gmail.com](mailto:email@domain.com)
