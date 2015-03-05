@@ -19,11 +19,12 @@ title: The Framework of SCI paper
 		+	加入unknown beat：在分類模型中，若待測beat與我們訓練模型中beat的特徵值相似度低於一定閾值，可以將其歸類爲unknown beat
 		+	需要在matlab上先驗證演算法的正確性，然後將算法移植到我們的平臺上
 +	Algorithm Three:
-	+	ST segment: ST segment在我們一些變量上有重要的作用
+	+	ST segment: ST segment在我們一些病症診斷上有重要的作用
+	+	這一部分工作在前兩項工作結束后進行
 
 ###3.實驗#
-+	正確性：波性分類的正確性。
-+	執行效能：
++	**正確性**：波性分類的正確性。
++	**執行效能**：
 	+	R-peak檢測，頻域時域參數計算的時間大幅縮短（預計）
 	+	abnormal檢測的速度也大幅提高
 	+	要將我們雲端上計算大量的數據的時間與沒有經過CUDA加速的時間進行對比。凸顯我們的優勢。
@@ -38,4 +39,4 @@ title: The Framework of SCI paper
 	+	R-peak檢測算法（curve length transform 演算法）
 	+	SVM支持向量機進行beat的分類
 +	實驗的平臺
-	+	暫時計劃是在裝有LINUX CENTOS的TK1上。
+	+	暫時計劃的平臺是在裝有LINUX CENTOS的TK1
