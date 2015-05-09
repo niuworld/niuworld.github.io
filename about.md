@@ -10,6 +10,6 @@ I am a postgraduate student majoring in Electronic Engineering from Tianjin Univ
 
 ### Contact me
 
-[niuyenoah@qq.com](mailto:niuyenoah@qq.com)
+[niuyenoah@foxmail.com](mailto:niuyenoah@foxmail.com)
 
 [niuyenoah@gmail.com](mailto:niuyenoah@gmail.com)
