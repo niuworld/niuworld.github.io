@@ -20,5 +20,5 @@ I am honest, easy-going, and always ready to help anyone in need.
 
 ### Contact me
 
-[niuyenoah(at)gmail.com](mailto:niuyenoah@foxmail.com)
+[niuyenoah(at)gmail.com](mailto:niuyenoah@gmail.com)
 
