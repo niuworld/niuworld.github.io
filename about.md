@@ -18,5 +18,5 @@ I am a postgraduate student majoring in electroic engineering in Tianjin Univers
 
 ### Contact me
 
-[niuyenoah(at)gmail.com](mailto:niuyenoah@gmail.com)
+[i@niuyenonah.com](mailto:i@niuyenoah.com)
 
