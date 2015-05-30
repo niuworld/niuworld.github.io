@@ -25,7 +25,7 @@ footer-links:
   instagram: n0o0a0h0
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: niuye# just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:  NyTpNy
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -35,7 +35,7 @@ footer-links:
 disqus: niuworld
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-63572882-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
