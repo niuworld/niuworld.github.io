@@ -9,7 +9,8 @@ title: C++筆記--指針
 存儲另一個變量地址的變量被稱為指針。
 
 ### 運算符
-+ &: address-of operator, 中文譯為“取地址運算符”.
+
+ + &: address-of operator, 中文譯為“取地址運算符”.
   
   `foo = &myvar;` myvar的地址就通過'&'+'myvar'，被指針foo得到。存儲器中變量的實際地址在執行之前是未知的。但是，我們假設，myvar的地址在程序執行期間為1776.
   
@@ -21,10 +22,11 @@ title: C++筆記--指針
  在這一段程序執行之後，變量的存儲位置如圖所示：
  ![](http://www.cplusplus.com/doc/tutorial/pointers/reference_operator.png)
  
-  - 首先，將數值25賦給myvar。
-  - 第二个聲明將myvar的地址賦給foo，即為1776（是我們假設的地址）
-  - 最後一個聲明，將myvar中的值發給了bar。
+1. 首先，將數值25賦給myvar。
+2. 第二个聲明將myvar的地址賦給foo，即為1776（是我們假設的地址）
+3. 最後一個聲明，將myvar中的值發給了bar。
  
+
 + \*: Dereference operator, 中文譯為“間接運算符”.
   指針一個很有意思的性質就是可以被用來直接讀取它們所指的變量。這樣就是通過採用'pointer name'+'*'的形式。
 
