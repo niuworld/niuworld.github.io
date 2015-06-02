@@ -6,7 +6,7 @@ title: C++筆記--指針
 資料來源: [Cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/)
 
 ### 定义
-存取另一個變量地址的變量被成為指針。
+存儲另一個變量地址的變量被稱為指針。
 
 ### 運算符
 + &: address-of operator, 中文譯為“取地址運算符”.
