@@ -21,9 +21,9 @@ title: C++筆記--指針
  在這一段程序執行之後，變量的存儲位置如圖所示：
  ![](http://www.cplusplus.com/doc/tutorial/pointers/reference_operator.png)
  
-  + 首先，將數值25賦給myvar。
-  + 第二个聲明將myvar的地址賦給foo，即為1776（是我們假設的地址）
-  + 最後一個聲明，將myvar中的值發給了bar。
+  - 首先，將數值25賦給myvar。
+  - 第二个聲明將myvar的地址賦給foo，即為1776（是我們假設的地址）
+  - 最後一個聲明，將myvar中的值發給了bar。
  
 + \*: Dereference operator, 中文譯為“間接運算符”.
   指針一個很有意思的性質就是可以被用來直接讀取它們所指的變量。這樣就是通過採用'pointer name'+'*'的形式。
