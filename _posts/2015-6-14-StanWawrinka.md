@@ -4,12 +4,11 @@ title: 屌絲逆襲
 ---
 ![](http://m1.img.srcdd.com/farm5/d/2015/0613/23/6E572DA4A240A63FA3FC522183A59396_B500_900_500_334.jpeg)
 
-本次法網最大的驚喜就是，[Stan](https://en.wikipedia.org/wiki/Stan_Wawrinka#2014:_Australian_Open.2C_Masters_1000.2C_Davis_Cup_titles_and_Career_high_ranking)捧起了火槍手杯，成功脫離了一滿貫陣營，登入二滿貫陣營，和你國著名球手李娜同為一法網一澳網冠軍，在我心中，這算是屌絲逆襲的典範。ATP中，四巨頭是巨星。及時在Top Ten，在球迷眼中，也幾乎沒有什麼存在感，甚至不如常常在大滿貫中爆出冷門的Tsonga等，還有Maria的男友，Dimitrov。所以Stan也算是屌絲吧。再詳細介紹一下Stan，全名： Stan Wawrinka,中國球迷親切稱其為“四蛋”，拿到法網冠軍的時候，已經30歲71天，是90年之後，最年長的法網冠軍。
+本次法網最大的驚喜就是，[Stan](https://en.wikipedia.org/wiki/Stan_Wawrinka#2014:_Australian_Open.2C_Masters_1000.2C_Davis_Cup_titles_and_Career_high_ranking)捧起了火槍手杯，成功脫離了一滿貫陣營，登入二滿貫陣營，和你國著名球手李娜同為一法網一澳網冠軍，在我心中，這算是屌絲逆襲的典範。ATP中，[四巨頭](https://en.wikipedia.org/wiki/Big_Four_(tennis))是巨星。即使在Top Ten，在球迷眼中，也幾乎沒有什麼存在感，甚至不如常常在大滿貫中爆出冷門的Tsonga等，當然還有Maria的男友，Dimitrov。所以Stan也算是屌絲吧。再詳細介紹一下Stan，全名： Stan Wawrinka,中國球迷親切稱其為“四蛋”，拿到法網冠軍的時候，已經30歲71天，是90年之後，最年長的法網冠軍。
 
-青少年時期，Stan就拿過法網青少年組的冠軍，但是大家對青少年的成績都沒有很在意，Williams姐妹都沒有參加過青少年的比賽，而很多青少年時期大放異彩的球手，到了成人組就消聲滅跡。在我眼裡，男子網壇除了[四巨頭](https://en.wikipedia.org/wiki/Big_Four_(tennis))外，剩下的選手的存在感基本上沒有太大的區別，即使你是世界前十，也偶爾在巡迴賽上偶爾展露風頭，但[大師賽](https://en.wikipedia.org/wiki/Tennis_Masters_Series_records_and_statistics)級別都很難拿到冠軍。
+青少年時期，Stan就拿過法網青少年組的冠軍，但是大家對青少年的成績都沒有很在意，Williams姐妹都沒有參加過青少年的比賽，而很多青少年時期大放異彩的球手，到了成人組就消聲滅跡。
 
 ![](http://m3.img.srcdd.com/farm5/d/2015/0613/23/B91801C3976596FDF3A6085AE9422497_B1280_1280_600_330.jpeg)
-
 
 Stan第一次走入我的實現13年的澳網，Stan打入了澳網第四輪，遇到了[Novak](https://en.wikipedia.org/wiki/Novak_Djokovic)，當時大家都一邊倒支持小德，雖然小德最後贏了，但是過程是馬拉松式的艱辛，長盤12﹣10決勝，比賽結束時已經是墨爾本當地凌晨1:45。我試圖去尋找關於這篇文章的[報導](http://www.nytimes.com/2013/01/21/sports/tennis/21iht-open21.html?_r=0),不過整篇報導都是關於小德，然後他賽後的發言，而對Stan只是隨便提了兩句。成者為王敗者為寇，就是這麼殘酷。即便如此，大家也只是認為四巨頭可能以後那大滿貫更困難了，很少人會認為他真的有能力連續阻力四巨頭，拿到大滿貫。
 
