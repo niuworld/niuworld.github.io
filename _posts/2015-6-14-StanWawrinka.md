@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 屌絲逆襲
+title: 四蛋大惊喜
 ---
 ![](http://m1.img.srcdd.com/farm5/d/2015/0613/23/6E572DA4A240A63FA3FC522183A59396_B500_900_500_334.jpeg)
 
