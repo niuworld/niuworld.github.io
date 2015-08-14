@@ -9,10 +9,7 @@ title: 在Mac上使用LaTex制作中文简历
 ####编辑设置: 
 TexShop->偏好设置->编码->'Unicode(UTF-8)
 ####中文简历模板1
-此模板使用Mac上的自带的字体"Helvetica"。 下载模板之后，打开文件夹，打开"example/template\_cn\_blue.tex"文件然后使用**XeLatex**进行编译。然后就可以看到自动生成的简历。
-
-casual:
-![resume1_casual](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume1_casual.png?raw=true)
+此模板使用Mac上的自带的字体"Helvetica"。 下载模板之后，打开文件夹，打开"example/template\_cn\_blue.tex"文件然后使用**XeLatex**进行编译。然后就可以看到自动生成的简历。[百度云下载链接](http://pan.baidu.com/s/1qWMdTUW)
 classic:
 ![resume1_classic](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume1_classic.png?raw=true)
 注意事项如下：
@@ -24,19 +21,14 @@ classic:
 然后就可以根据自己的简历的内容使用不同的格式。所有的格式均已列出。
 
 ####中文简历模板2
-模板1可以说是模板2的改良版，这个模板使用的字体不如第一个模板。但是可以提供的模板更多。包括: classic, casual, oldstyle, banking.请打开"example/template-zh.tex"文件。选择**LaTex**进行编译。其它注意事项同模板1.
+模板1可以说是模板2的改良版，这个模板使用的字体不如第一个模板。但是可以提供的模板更多。包括: classic, casual, oldstyle, banking.请打开"example/template-zh.tex"文件。选择**LaTex**进行编译。其它注意事项同模板1.[百度云下载链接](http://pan.baidu.com/s/1i3JAxTF)
 模板如下:
-
-oldstyle:
-![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume2_oldstyle.png?raw=true)
-classic:
-![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume2_classic.png?raw=true)
-banking:
-![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume2_banking.png?raw=true)
 casual:
 ![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume2_casual.png?raw=true)
+banking:
+![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume2_banking.png?raw=true)
 ####中文简历模板3
-模板3也是从网路上找到的，很简洁，无照片。打开"中文简历.tex"进行编辑，并且使用**XeLaTex**进行编译。
+模板3也是从网路上找到的，很简洁，无照片。打开"中文简历.tex"进行编辑，并且使用**XeLaTex**进行编译。[百度云下载链接](http://pan.baidu.com/s/1gdxtMa3)
 模板如下：
 ![](https://github.com/niuworld/niuworld.github.io/blob/master/_pic/resume3.png?raw=true)
                                   
